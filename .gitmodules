@@ -1,0 +1,3 @@
+[submodule "stringtheories"]
+	path = stringtheories
+	url = https://github.com/blckroot/stringtheories
